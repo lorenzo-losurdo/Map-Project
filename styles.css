@@ -1,0 +1,12 @@
+#map {width: 700px;
+height: 500px;
+margin: auto;
+border-radius: 25px;}
+
+body {background-color: #2c3550;}
+
+h1, h2 {
+    text-align: center;
+    color: white;
+    font-family: Pistilli;
+}
